@@ -16,6 +16,6 @@ This app is a day scheduler that enables users to save events for each hour of t
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot] <img width="1463" alt="Screenshot 2023-02-15 at 10 12 15 am" src="https://user-images.githubusercontent.com/113915529/218884073-fdf270ac-cb24-4439-8330-327a62a1f1a0.png">
 
 
